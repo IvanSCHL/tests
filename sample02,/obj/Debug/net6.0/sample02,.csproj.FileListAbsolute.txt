@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\obj\Debug\net6.0\sample02,.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\obj\Debug\net6.0\sample02,.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\obj\Debug\net6.0\sample02,.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\obj\Debug\net6.0\sample02,.AssemblyInfo.cs
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\obj\Debug\net6.0\sample02,.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\bin\Debug\net6.0\sample02,.exe
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\bin\Debug\net6.0\sample02,.deps.json
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\bin\Debug\net6.0\sample02,.runtimeconfig.json
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\bin\Debug\net6.0\sample02,.dll
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\bin\Debug\net6.0\sample02,.pdb
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\obj\Debug\net6.0\sample02,.dll
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\obj\Debug\net6.0\refint\sample02,.dll
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\obj\Debug\net6.0\sample02,.pdb
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\obj\Debug\net6.0\sample02,.genruntimeconfig.cache
+C:\Users\Master\Desktop\VS\Samples01\tests\sample02,\obj\Debug\net6.0\ref\sample02,.dll
